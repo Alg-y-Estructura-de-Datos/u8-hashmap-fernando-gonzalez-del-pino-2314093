@@ -10,7 +10,7 @@ int main() {
 
     begin = clock();
     /*
-     * Insertar código a medir tiempo aquí
+     * Código a medir
      */
     clock_t end = clock();
 
